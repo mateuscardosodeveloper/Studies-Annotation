@@ -8,7 +8,7 @@
 
 [EC2](./EC2/README.md)
 
-[Route 53](./Route_53/route_53.md)
+[Route 53](./Route53/route_53.md)
 
 [RDS](https://www.notion.so/RDS-52e198f13000416eb2da6bc82a3d4b53)
 
