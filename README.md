@@ -4,4 +4,4 @@ O objetivo deste repositório é escrever anotações sobre o assunto atual que 
 
 ## Conteúdos
 
-[AWS](./AWS/README.md)
+[AWS](./AWS/aws.md)

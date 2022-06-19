@@ -1,12 +1,12 @@
 # AWS
 
-[S3 (Simple Storage Service)](./S3/README.md)
+[S3 (Simple Storage Service)](./S3/s3.md)
 
-[Cloud Watch](./CloudWatch/README.md)
+[Cloud Watch](./CloudWatch/cloud_watch.md)
 
 [Lambda](https://www.notion.so/Lambda-2ccaf033722b40cf937e8fb993ab3f17)
 
-[EC2](./EC2/README.md)
+[EC2](./EC2/ec2.md)
 
 [Route 53](./Route53/route_53.md)
 

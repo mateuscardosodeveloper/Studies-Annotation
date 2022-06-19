@@ -1,8 +1,8 @@
 # Cloud Watch
 
-[X-Ray](./X-Ray/README.md)
+[X-Ray](./X-Ray/x-ray.md)
 
-[CloudTrail](./CloudTrail/README.md)
+[CloudTrail](./CloudTrail/cloud_trail.md)
 
 - Metrics: Coleta e rastreia Key Metrics
 - Logs: Coleta, monitora, analiza e armazena arquivos log
