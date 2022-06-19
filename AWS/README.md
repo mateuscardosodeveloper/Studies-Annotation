@@ -6,7 +6,7 @@
 
 [Lambda](https://www.notion.so/Lambda-2ccaf033722b40cf937e8fb993ab3f17)
 
-[EC2](https://www.notion.so/EC2-641ac5e49fea43e181fc06a3df2dea11)
+[EC2](./EC2/README.md)
 
 [Route 53](https://www.notion.so/Route-53-3ecb34c922504174afdb693255aefd69)
 
